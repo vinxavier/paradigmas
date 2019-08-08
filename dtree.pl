@@ -101,7 +101,7 @@ bypass2(49) :-
 	encerra(2).
 
 bypass2(50) :-
-	respperg("SIM", "Early Uptake of"),
+	respperg("SIM", "Early Uptake"),
 	opcbinaria,
 	get_single_char(C), earlyuptake1(C).
 	
@@ -208,7 +208,7 @@ exclusion1(49) :-
 	get_single_char(C), lymphatics2(C).
 
 exclusion1(50) :-
-	respperg("SIM", "Early Uptake of"),
+	respperg("SIM", "Early Uptake"),
 	opcbinaria,
 	get_single_char(C), earlyuptake3(C).
 
