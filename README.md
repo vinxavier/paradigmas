@@ -8,3 +8,5 @@ linfografia.
 
 
 Arvore montada: https://drive.google.com/file/d/12L14HmC3M9qgNf5vgx8LRGJVj8XiBpQ-/view?usp=sharing
+
+Base de dados utilizada: https://archive.ics.uci.edu/ml/datasets/Lymphographys
